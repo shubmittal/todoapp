@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\8a5ed24300605f74f0c8101deccdb00a5ae28832\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\befa3a8c6013a3591c9af84e2db556d44992b62f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\c8062c65cd0361fee9db18b46fb587f9be178ba4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\512deebe952c95c53e8016ad988257452a368652\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\7b660dd62f1f15c1fd8ad48ab6cb39d2c4d04ae0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\87b349daf4ebe335b54982a931b99eeba0e4928e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\9b074a0decf10f016dab31230045471d4aeb575d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\d4217174b6122a575b851743276016c806ce2672\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\8c14a7e59bdb97147d95792050342d8965bf7fad\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shub_\.android\build-cache\ab59b27ffe7829124dc36a32915e9a2017da8b08\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:11:9-40
+activity#exampledomain.todoapp.MainActivity
+ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:16:27-74
+activity#exampledomain.todoapp.EditItemActivity
+ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:19:9-63
+	android:name
+		ADDED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml:19:19-51
+uses-sdk
+INJECTED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\8a5ed24300605f74f0c8101deccdb00a5ae28832\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\befa3a8c6013a3591c9af84e2db556d44992b62f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\c8062c65cd0361fee9db18b46fb587f9be178ba4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\512deebe952c95c53e8016ad988257452a368652\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\7b660dd62f1f15c1fd8ad48ab6cb39d2c4d04ae0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\87b349daf4ebe335b54982a931b99eeba0e4928e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\9b074a0decf10f016dab31230045471d4aeb575d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\d4217174b6122a575b851743276016c806ce2672\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\8c14a7e59bdb97147d95792050342d8965bf7fad\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shub_\.android\build-cache\ab59b27ffe7829124dc36a32915e9a2017da8b08\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\8a5ed24300605f74f0c8101deccdb00a5ae28832\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\8a5ed24300605f74f0c8101deccdb00a5ae28832\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\befa3a8c6013a3591c9af84e2db556d44992b62f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\c8062c65cd0361fee9db18b46fb587f9be178ba4\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\512deebe952c95c53e8016ad988257452a368652\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\7b660dd62f1f15c1fd8ad48ab6cb39d2c4d04ae0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\87b349daf4ebe335b54982a931b99eeba0e4928e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\9b074a0decf10f016dab31230045471d4aeb575d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\d4217174b6122a575b851743276016c806ce2672\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\8c14a7e59bdb97147d95792050342d8965bf7fad\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\8a5ed24300605f74f0c8101deccdb00a5ae28832\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\shub_\.android\build-cache\8a5ed24300605f74f0c8101deccdb00a5ae28832\output\AndroidManifest.xml:26:9-47
