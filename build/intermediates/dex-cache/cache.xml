@@ -7,17 +7,8 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="b4bbbb5ec9379179f145e2da027cbc8f604333e1">
+        sha1="21c04e0fdacbc8c7a3f798bc2fc6df14009158bb">
         <dex dex="C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_487c827988c9bd019d0701b138014e26e9d53a2e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="C:\Users\shub_\Documents\AndroidProjects\Todoapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c\classes.dex" />
     </item>
     <item
         is-multidex="true"

@@ -52,10 +52,14 @@ public class MainActivity extends AppCompatActivity {
         EditText edittext = (EditText) findViewById(R.id.etNewItem);
 
         String newtext = edittext.getText().toString();
-        items.add(newtext);
-        writeitems(items);
-       itemsadaptor.notifyDataSetChanged();
-        edittext.setText("");
+
+        if(newtext.length() >0) {
+            items.add(newtext);
+            writeitems(items);
+            itemsadaptor.notifyDataSetChanged();
+            edittext.setText("");
+        }
+
     }
 
     public void setupListViewListener() {
